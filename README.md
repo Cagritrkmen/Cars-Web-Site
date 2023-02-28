@@ -1,5 +1,5 @@
 # Cars-Web-Site
-*In this project, I designed a relative website site which is about cars using only **html** and **css**.
+*In this project, I designed a responsive website site which is about cars using only **html** and **css**.
 The images below belong to the project.*
 
 <br> <br>
